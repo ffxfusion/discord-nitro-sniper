@@ -1,7 +1,7 @@
 # discord-nitro-sniper
 random nitro sniper
 
-npm i discord.js@11.5 chalk, moment, phin
+npm i discord.js@11.5 chalk moment phin
 
 features:
 
