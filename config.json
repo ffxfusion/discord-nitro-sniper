@@ -1,0 +1,21 @@
+{
+    "nitro_sniper": {
+        "enabled": true,
+        "avoid_dupe_code": true
+    },
+    "giveaway_sniper": {
+        "enabled": true,
+        "react_delay_ms": 0,
+        "dm_giveaway_host": {
+            "enabled": true,
+            "dm_delay_sec": 30,
+            "dm_message": "hello i have won your giveaway"
+        }
+    },
+    "slotbot_sniper": {
+        "enabled": true
+    },
+    "options": {
+        "snipe_on_main_token": true
+    }
+}
