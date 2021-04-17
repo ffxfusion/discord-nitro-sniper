@@ -1,4 +1,7 @@
 # discord-nitro-sniper
+
+# i made this over a year ago now, my style and general knowledge was shit back then, i could very much improve on this but if it works it works
+
 random nitro sniper
 
 npm i discord.js@11.5 chalk moment phin
